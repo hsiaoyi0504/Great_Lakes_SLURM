@@ -154,3 +154,7 @@ If your job needs internet access, put this line in your submission script after
 ```bash
 source /etc/profile.d/http_proxy.sh
 ```
+
+### Others
+
+- [Open On-demand](https://arc-ts.umich.edu/open-ondemand/) provides some tools with GUI. 
